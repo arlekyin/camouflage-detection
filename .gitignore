@@ -22,3 +22,9 @@ __pycache__/
 *.pth
 *.pt
 *.ckpt
+
+# Models folder
+models/
+
+# Jupyter
+*.ipynb_checkpoints
